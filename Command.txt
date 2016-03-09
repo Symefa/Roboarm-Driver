@@ -1,0 +1,13 @@
+//1 is for set servo pin
+1 1 10 
+1 2 11 
+1 3 6
+
+//2 is for change the value of servo
+2 1 180
+2 2 180
+2 3 180
+
+2 1 0
+2 2 0
+2 3 0
